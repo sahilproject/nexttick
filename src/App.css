@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.user-box{
+    height: 100vh;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+    background-size: cover;
+}
+
+.user-body{
+    padding: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(255, 248, 248);
+    background-image: url("https://sb.kaleidousercontent.com/67418/1920x1100/2ed9107761/bg.png");
+    background-size: cover;
+}
+
+
+.heading{
+    background-color: rgb(111, 228, 246);
+    width: 200px;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    border-radius: 20px 1px 30px 1px;
+}
+.form{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.tasks{
+    /* background-color: rgb(197, 254, 166); */
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+
